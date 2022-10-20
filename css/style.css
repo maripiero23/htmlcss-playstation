@@ -1,7 +1,37 @@
-*{
+/**{
     border: 1px solid lightgray;
-}
+}*/
 
 .sony-img{
     width: 100px;
 }
+
+ul>*{
+    text-decoration:none;
+    align-items: center;
+}
+
+.arrow{
+    width: 10px;
+}
+
+/*.navbar > a{
+    color:black
+} quando rimetti le liste*/
+
+section>*{
+    border: 1px solid lightgray;
+}
+
+section{
+    padding: 2rem 0;
+}
+
+.jumbotron{
+    padding-top: 150px;
+    background-image: url(jumbo-bg.png);
+}
+
+/*.menudx a{
+    display: none;
+}*/
