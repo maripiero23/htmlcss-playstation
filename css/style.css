@@ -1,6 +1,4 @@
-*{
-    border: 1px solid lightgray;
-}
+
 
 .sony-img{
     width: 100px;
@@ -41,10 +39,7 @@ section{
     background-size: cover;
 }
 
-.img-fluid {
-    max-width: 100%;
-    height: auto;
-  }
+
 
 .dimension-p{
     font-size: smaller;
@@ -59,3 +54,11 @@ section{
     font-weight: 400;
 }
   
+/*BANNER*/
+
+.banner{
+    padding: 0;
+}
+
+/*SEZIONE4*/
+
