@@ -19,6 +19,9 @@ ul>*{
     color:black
 } quando rimetti le liste*/
 
+/* PER FAR SPARIRE IN MOBILE .menudx a{
+    display: none;
+}*/
 
 /*SEZIONI IN GENERALE*/
 section>*{
@@ -43,6 +46,9 @@ section{
     height: auto;
   }
 
-/*.menudx a{
-    display: none;
-}*/
+.dimension-p{
+    font-size: smaller;
+    font-weight: 500;
+    color: blue;
+}
+  
