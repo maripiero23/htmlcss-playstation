@@ -68,8 +68,14 @@ section{
     background-size: cover;
 }
 
-/*SEZIONE*/
+/*SEZIONE6*/
 
 .nuove-uscite{
     background-color:rgb(31, 31, 31) ;
+}
+
+/*SEZIONE6*/
+
+.bg-gray{
+    background-color:rgb(190, 188, 187) ;
 }
