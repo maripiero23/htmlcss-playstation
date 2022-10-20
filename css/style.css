@@ -60,5 +60,11 @@ section{
     padding: 0;
 }
 
-/*SEZIONE4*/
+/*SEZIONE5*/
+
+.sez5{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: top;
+    background-size: cover;
+}
 
