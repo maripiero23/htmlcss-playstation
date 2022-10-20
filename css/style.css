@@ -19,6 +19,7 @@ ul>*{
     color:black
 } quando rimetti le liste*/
 
+
 /*SEZIONI IN GENERALE*/
 section>*{
     border: 1px solid lightgray;
@@ -27,6 +28,8 @@ section>*{
 section{
     padding: 2rem 0;
 }
+
+
 /*JUMBORTON*/
 .jumbotron{
     padding-top: 150px;
