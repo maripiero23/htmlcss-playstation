@@ -12,6 +12,7 @@
 }
 
 .lens-container{
+    display: inline-block;
     width: 25px;
 }
 
