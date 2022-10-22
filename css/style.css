@@ -6,11 +6,14 @@
 .right-list a,
 .right-left a{
     color: black;
-    font-weight: bold;
+    font-weight: 600;
     text-decoration: none;
     padding-right: 1.5rem;
 }
 
+.left-list{
+    padding-top: 4px;
+}
 .lens-container{
     display: inline-block;
     width: 25px;
@@ -20,18 +23,11 @@
     width: 10px;
 }
 
-/*.navbar > a{
-    color:black
-} quando rimetti le liste*/
-
-/* PER FAR SPARIRE IN MOBILE .menudx a{
-    display: none;
-}*/
+header{
+    position: fixed;
+}
 
 /*SEZIONI IN GENERALE*/
-section>*{
-    border: 1px solid lightgray;
-}
 
 section{
     padding: 2rem 0;
@@ -74,6 +70,7 @@ section{
     background-position: top;
     background-size: cover;
 }
+
 
 /*SEZIONE6*/
 
