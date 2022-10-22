@@ -23,9 +23,6 @@
     width: 10px;
 }
 
-header{
-    position: fixed;
-}
 
 /*SEZIONI IN GENERALE*/
 
@@ -63,6 +60,11 @@ section{
     padding: 0;
 }
 
+/*SEZIONE4*/
+
+.dai-cazo{
+    border-bottom: 1px solid rgb(93, 166, 224);
+}
 /*SEZIONE5*/
 
 .sez5{
